@@ -1,4 +1,4 @@
-FROM python:3.9-alpine3.13
+FROM python:3.12-rc-alpine3.15
 LABEL maintainer="uvatechs.com"
 
 ENV PYTHONUNBUFFERED 1
